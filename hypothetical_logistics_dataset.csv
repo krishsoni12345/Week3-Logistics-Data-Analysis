@@ -1,0 +1,251 @@
+Shipment_ID,Region,Transport_Mode,Priority,Shipment_Volume_kg,Distance_km,Delivery_Time_days,Transport_Cost_INR,Delay_Status,Customer_Rating
+SHP1001,East,Road,Standard,490,1304,3.5,29487.08,On Time,3.9
+SHP1002,West,Rail,Express,97,972,3.0,3615.49,On Time,4.2
+SHP1003,North,Air,Standard,235,469,1.9,12274.79,On Time,4.3
+SHP1004,East,Road,Express,405,206,1.0,4717.73,On Time,4.7
+SHP1005,East,Road,Standard,384,599,2.6,11883.93,On Time,4.2
+SHP1006,West,Road,Standard,173,1514,4.4,15150.37,On Time,3.8
+SHP1007,North,Road,Standard,33,1170,4.9,1856.19,On Time,4.3
+SHP1008,North,Road,Standard,206,1070,2.5,12475.86,On Time,4.2
+SHP1009,East,Road,Express,331,1046,2.0,19198.9,On Time,4.6
+SHP1010,South,Air,Standard,390,1484,2.5,70885.04,On Time,4.5
+SHP1011,East,Road,Express,26,1000,1.1,1463.88,On Time,4.5
+SHP1012,East,Road,Standard,22,338,3.3,410.9,On Time,4.2
+SHP1013,East,Rail,Standard,130,1327,3.7,6576.23,On Time,4.1
+SHP1014,East,Road,Express,426,245,1.0,4946.92,On Time,4.5
+SHP1015,West,Air,Express,257,647,1.8,16976.71,On Time,4.6
+SHP1016,North,Air,Express,382,1907,1.9,92236.03,On Time,4.2
+SHP1017,West,Road,Standard,258,1595,5.0,21997.59,Delayed,3.7
+SHP1018,West,Road,Standard,293,566,1.2,9237.31,On Time,4.2
+SHP1019,West,Road,Express,313,1708,4.8,27676.13,On Time,3.8
+SHP1020,East,Road,Standard,246,1915,3.3,22246.76,On Time,4.2
+SHP1021,South,Road,Express,390,914,1.0,16868.51,On Time,4.0
+SHP1022,North,Rail,Express,34,1191,3.1,1565.0,On Time,4.7
+SHP1023,South,Road,Standard,211,855,3.7,9224.15,On Time,3.9
+SHP1024,West,Road,Express,492,1982,4.3,47062.93,On Time,4.1
+SHP1025,West,Road,Express,138,1232,2.6,8823.0,On Time,4.6
+SHP1026,South,Air,Standard,47,864,3.1,4181.49,On Time,4.0
+SHP1027,South,Road,Express,221,277,2.7,3245.91,On Time,3.7
+SHP1028,South,Road,Standard,58,1950,5.6,5555.14,Delayed,3.5
+SHP1029,West,Road,Express,460,265,1.0,6791.48,On Time,4.3
+SHP1030,West,Air,Standard,292,997,2.0,31955.51,Delayed,3.4
+SHP1031,North,Road,Express,250,1769,2.9,22749.85,On Time,4.3
+SHP1032,North,Rail,Standard,105,64,2.2,219.5,On Time,4.4
+SHP1033,West,Rail,Standard,493,1230,3.2,20134.17,On Time,4.5
+SHP1034,South,Road,Express,145,1721,4.3,12641.53,On Time,3.8
+SHP1035,South,Rail,Standard,319,1334,6.3,15669.39,Delayed,3.1
+SHP1036,North,Road,Standard,44,1230,4.2,2881.8,On Time,4.0
+SHP1037,West,Rail,Express,164,96,1.0,553.4,Delayed,4.1
+SHP1038,North,Rail,Express,32,373,2.4,462.3,On Time,4.5
+SHP1039,North,Road,Standard,231,893,4.3,11653.82,Delayed,4.1
+SHP1040,East,Road,Standard,44,1758,6.0,4292.46,On Time,4.2
+SHP1041,East,Rail,Standard,87,179,1.6,512.54,On Time,4.5
+SHP1042,East,Road,Standard,413,1484,4.6,31721.28,On Time,4.2
+SHP1043,South,Road,Standard,86,144,1.4,582.91,On Time,4.3
+SHP1044,West,Road,Standard,252,676,3.2,8309.89,On Time,4.3
+SHP1045,West,Road,Express,128,804,2.3,5976.47,On Time,4.0
+SHP1046,West,Rail,Express,165,1365,2.0,7618.32,On Time,4.4
+SHP1047,West,Road,Express,130,843,1.8,5697.16,On Time,4.4
+SHP1048,East,Road,Standard,247,1884,5.1,24884.29,On Time,4.4
+SHP1049,South,Road,Standard,130,1356,2.8,9611.98,On Time,4.2
+SHP1050,South,Rail,Standard,489,118,2.7,2165.54,On Time,4.3
+SHP1051,East,Road,Standard,53,1733,3.4,4214.21,On Time,4.3
+SHP1052,South,Rail,Standard,130,60,1.5,276.58,On Time,4.3
+SHP1053,East,Road,Express,283,1327,4.1,19611.14,On Time,3.9
+SHP1054,West,Air,Standard,443,1915,3.4,87909.85,On Time,4.5
+SHP1055,East,Road,Standard,388,921,3.5,17915.94,On Time,3.9
+SHP1056,West,Road,Standard,255,599,1.0,7052.9,On Time,4.1
+SHP1057,West,Road,Express,102,1207,4.5,5754.43,On Time,4.2
+SHP1058,North,Air,Standard,61,761,1.6,5206.35,On Time,4.7
+SHP1059,East,Air,Standard,444,72,1.0,3352.26,On Time,4.4
+SHP1060,North,Road,Standard,120,864,3.1,5478.75,On Time,4.1
+SHP1061,East,Rail,Standard,25,395,3.3,381.99,On Time,4.3
+SHP1062,East,Rail,Standard,199,351,1.5,2770.85,Delayed,3.9
+SHP1063,North,Road,Express,301,412,1.2,5984.56,On Time,4.3
+SHP1064,North,Road,Standard,339,445,1.6,7218.44,On Time,4.6
+SHP1065,East,Road,Standard,245,267,1.0,3078.76,On Time,4.6
+SHP1066,South,Road,Standard,462,190,2.4,4714.02,On Time,4.6
+SHP1067,West,Air,Express,459,1689,2.6,93571.81,On Time,4.0
+SHP1068,North,Air,Standard,334,1007,2.5,34330.62,Delayed,3.8
+SHP1069,West,Rail,Standard,384,1283,4.7,20137.26,On Time,4.1
+SHP1070,South,Road,Express,473,1034,2.2,22697.61,Delayed,3.8
+SHP1071,South,Road,Express,248,1042,4.1,13570.81,Delayed,3.9
+SHP1072,South,Rail,Express,396,1696,4.6,26096.62,On Time,4.4
+SHP1073,North,Air,Express,308,1689,1.6,65150.7,On Time,4.3
+SHP1074,South,Air,Standard,456,877,1.7,48352.88,On Time,4.4
+SHP1075,North,Rail,Standard,169,732,3.9,4908.65,On Time,4.5
+SHP1076,South,Rail,Express,296,1533,4.7,16142.49,On Time,4.5
+SHP1077,West,Road,Standard,217,1053,2.4,12779.84,Delayed,4.1
+SHP1078,West,Road,Standard,89,405,2.8,1685.46,On Time,4.4
+SHP1079,East,Air,Express,131,1057,1.0,17432.57,On Time,4.3
+SHP1080,West,Rail,Standard,23,1397,5.7,1202.43,On Time,4.0
+SHP1081,East,Road,Standard,369,1206,2.6,24902.93,On Time,4.4
+SHP1082,West,Road,Standard,350,937,2.9,16858.25,Delayed,3.8
+SHP1083,North,Rail,Standard,465,1878,6.6,33424.38,On Time,3.7
+SHP1084,West,Road,Standard,337,1913,5.1,33735.84,On Time,3.7
+SHP1085,East,Road,Standard,369,176,2.2,3564.79,On Time,3.9
+SHP1086,East,Road,Standard,114,1179,4.1,6287.34,On Time,3.6
+SHP1087,South,Rail,Standard,171,1058,5.1,5987.65,On Time,4.1
+SHP1088,North,Rail,Standard,330,653,4.2,7489.2,On Time,4.1
+SHP1089,West,Road,Standard,156,1872,4.6,13944.85,On Time,3.9
+SHP1090,South,Rail,Express,266,1451,4.6,15554.98,On Time,4.0
+SHP1091,West,Road,Standard,406,1978,3.9,38945.42,Delayed,3.8
+SHP1092,West,Road,Standard,262,1063,3.3,16136.3,On Time,4.2
+SHP1093,South,Rail,Express,50,100,2.1,177.76,On Time,4.0
+SHP1094,South,Rail,Standard,59,1102,4.3,2222.13,On Time,4.3
+SHP1095,South,Rail,Express,248,1535,4.6,15064.47,On Time,4.1
+SHP1096,South,Rail,Standard,55,1369,4.6,2892.03,On Time,4.1
+SHP1097,South,Road,Express,427,1370,4.0,30406.31,On Time,4.3
+SHP1098,West,Road,Standard,242,1799,4.7,22939.42,On Time,3.8
+SHP1099,South,Road,Express,25,828,1.7,1133.03,On Time,4.7
+SHP1100,North,Road,Standard,341,1480,4.9,24533.06,On Time,4.0
+SHP1101,East,Road,Express,487,1842,3.0,52203.38,On Time,4.5
+SHP1102,South,Air,Standard,239,863,2.4,26422.41,Delayed,4.1
+SHP1103,South,Road,Standard,94,1686,3.7,8538.49,On Time,3.9
+SHP1104,West,Air,Express,23,1478,3.5,3627.41,On Time,4.3
+SHP1105,South,Rail,Standard,354,1419,4.6,19390.0,On Time,4.1
+SHP1106,South,Rail,Standard,153,1695,5.5,8610.21,On Time,3.9
+SHP1107,South,Road,Standard,137,469,2.5,2964.8,On Time,4.3
+SHP1108,West,Road,Standard,388,1255,2.2,23848.32,On Time,4.3
+SHP1109,South,Road,Standard,113,1032,2.7,6009.63,Delayed,4.1
+SHP1110,East,Road,Standard,454,874,3.8,22457.08,On Time,4.3
+SHP1111,West,Rail,Express,81,1074,4.0,3394.27,On Time,4.1
+SHP1112,East,Road,Standard,460,1904,5.2,48196.58,Delayed,3.3
+SHP1113,West,Road,Standard,213,616,1.4,6700.81,On Time,4.6
+SHP1114,South,Rail,Express,354,420,2.5,5297.75,On Time,4.5
+SHP1115,East,Road,Express,222,985,2.9,11018.9,On Time,4.8
+SHP1116,West,Air,Standard,411,1984,4.3,104748.66,On Time,4.4
+SHP1117,North,Air,Standard,45,710,2.7,3268.71,Delayed,3.5
+SHP1118,South,Air,Standard,454,1504,2.8,85440.81,On Time,4.3
+SHP1119,West,Road,Standard,192,1018,2.8,10355.62,On Time,4.7
+SHP1120,North,Road,Standard,319,1382,2.0,22586.88,On Time,4.5
+SHP1121,West,Air,Standard,152,1210,3.5,22294.25,On Time,4.3
+SHP1122,North,Road,Standard,345,251,2.0,4488.53,On Time,4.6
+SHP1123,South,Air,Standard,429,1509,2.0,81118.53,On Time,4.2
+SHP1124,East,Air,Express,137,362,1.0,6251.79,On Time,4.6
+SHP1125,North,Air,Express,343,166,1.0,6424.86,On Time,4.4
+SHP1126,West,Road,Standard,294,1739,5.3,25161.86,On Time,4.0
+SHP1127,South,Road,Standard,231,986,2.9,12106.34,On Time,4.5
+SHP1128,North,Air,Standard,244,1876,3.4,57850.25,Delayed,3.6
+SHP1129,West,Road,Express,39,624,1.0,1177.6,On Time,4.8
+SHP1130,West,Road,Standard,132,293,1.0,2070.51,On Time,4.4
+SHP1131,West,Road,Standard,159,586,1.0,4998.03,On Time,4.5
+SHP1132,North,Air,Express,66,1675,1.9,13424.52,On Time,4.0
+SHP1133,North,Rail,Express,20,124,1.0,83.65,On Time,4.7
+SHP1134,North,Road,Express,109,1879,4.7,11201.83,Delayed,4.0
+SHP1135,East,Road,Standard,161,435,1.9,3999.33,On Time,4.2
+SHP1136,North,Rail,Standard,339,1976,5.3,22879.6,On Time,3.7
+SHP1137,North,Air,Standard,57,1283,4.7,7880.32,On Time,4.1
+SHP1138,North,Road,Express,312,524,1.0,9463.18,On Time,4.8
+SHP1139,East,Road,Express,401,467,2.3,8992.3,On Time,4.0
+SHP1140,North,Air,Standard,158,396,2.4,7807.3,On Time,4.0
+SHP1141,West,Rail,Standard,375,1602,3.9,22186.55,Delayed,3.7
+SHP1142,North,Rail,Standard,352,689,3.4,8429.16,On Time,4.0
+SHP1143,West,Rail,Express,278,988,2.8,11066.83,On Time,4.1
+SHP1144,West,Road,Express,180,1004,1.9,9274.08,On Time,3.8
+SHP1145,West,Road,Standard,409,925,3.5,19742.86,On Time,4.3
+SHP1146,East,Rail,Standard,197,812,3.1,5718.71,On Time,4.3
+SHP1147,East,Rail,Standard,29,1252,4.1,1373.36,On Time,3.7
+SHP1148,East,Air,Express,280,1255,1.9,37147.64,On Time,4.7
+SHP1149,North,Air,Express,426,713,1.0,34016.79,On Time,4.9
+SHP1150,West,Road,Express,157,74,1.0,672.2,On Time,4.3
+SHP1151,East,Road,Standard,191,1253,4.3,11722.4,Delayed,4.0
+SHP1152,East,Rail,Standard,405,759,4.4,11801.45,Delayed,3.6
+SHP1153,North,Rail,Standard,32,1574,5.4,1785.43,On Time,4.0
+SHP1154,East,Rail,Standard,187,1929,5.6,14222.75,On Time,3.7
+SHP1155,North,Rail,Express,149,1234,3.1,6200.36,On Time,4.8
+SHP1156,South,Air,Express,103,226,1.0,2978.82,Delayed,4.1
+SHP1157,East,Road,Express,340,334,3.0,5839.63,Delayed,3.9
+SHP1158,South,Road,Express,338,112,1.4,1843.81,On Time,4.3
+SHP1159,North,Road,Standard,120,1052,2.6,5892.53,Delayed,4.4
+SHP1160,West,Road,Express,348,711,2.0,11846.5,On Time,4.8
+SHP1161,East,Road,Express,292,715,1.5,10908.08,On Time,4.8
+SHP1162,North,Road,Express,284,205,1.3,2909.01,On Time,4.7
+SHP1163,West,Road,Standard,478,1955,5.5,52429.06,Delayed,3.4
+SHP1164,West,Road,Standard,418,1542,5.2,32960.97,On Time,4.2
+SHP1165,South,Road,Standard,427,1122,2.8,23410.43,Delayed,3.9
+SHP1166,North,Road,Express,57,1016,2.5,3096.09,On Time,4.6
+SHP1167,West,Road,Standard,438,898,1.6,21467.85,On Time,4.7
+SHP1168,East,Rail,Standard,113,1157,3.3,4450.86,On Time,4.0
+SHP1169,East,Road,Standard,114,1434,4.8,7822.64,On Time,4.3
+SHP1170,South,Road,Standard,324,738,1.9,11051.2,On Time,4.5
+SHP1171,West,Road,Standard,88,197,1.0,952.62,On Time,3.8
+SHP1172,North,Rail,Standard,337,1703,5.4,22069.51,On Time,4.2
+SHP1173,East,Road,Standard,463,391,2.5,9356.4,Delayed,3.8
+SHP1174,West,Rail,Standard,255,525,2.2,5362.53,On Time,4.1
+SHP1175,West,Road,Express,453,1136,1.0,28722.72,On Time,4.3
+SHP1176,South,Road,Standard,353,1774,4.1,33230.61,On Time,4.1
+SHP1177,East,Road,Express,392,1433,4.2,31792.03,On Time,4.2
+SHP1178,East,Road,Standard,395,610,2.7,11644.85,On Time,3.9
+SHP1179,North,Rail,Standard,478,376,3.8,6030.57,On Time,4.2
+SHP1180,East,Rail,Express,156,1842,4.0,10044.5,Delayed,3.9
+SHP1181,North,Air,Standard,437,1809,2.6,81247.5,On Time,4.8
+SHP1182,East,Road,Standard,95,1214,4.0,6042.02,Delayed,3.5
+SHP1183,South,Road,Standard,54,1039,3.5,3223.22,Delayed,3.7
+SHP1184,East,Rail,Express,20,264,2.0,173.76,On Time,4.4
+SHP1185,North,Road,Standard,315,484,2.9,7208.91,Delayed,4.2
+SHP1186,North,Road,Standard,339,1964,5.5,34224.21,On Time,3.9
+SHP1187,South,Road,Standard,425,1001,3.5,24425.67,Delayed,4.1
+SHP1188,East,Road,Standard,79,772,3.3,3031.45,On Time,3.7
+SHP1189,East,Air,Standard,339,1391,3.5,54322.29,Delayed,3.5
+SHP1190,South,Rail,Standard,368,81,2.8,981.55,On Time,4.4
+SHP1191,East,Rail,Standard,347,719,4.2,8452.15,On Time,3.7
+SHP1192,East,Road,Standard,286,334,3.1,5547.38,On Time,3.9
+SHP1193,North,Road,Standard,380,1378,3.4,30268.84,On Time,4.1
+SHP1194,East,Road,Express,248,478,1.7,5431.88,On Time,4.6
+SHP1195,East,Road,Standard,289,1550,4.0,25819.22,On Time,3.6
+SHP1196,South,Road,Standard,335,335,1.2,6030.55,On Time,4.5
+SHP1197,South,Rail,Express,305,1217,3.1,14946.55,On Time,4.5
+SHP1198,West,Rail,Standard,310,1497,5.4,16984.08,On Time,3.9
+SHP1199,North,Road,Standard,232,1092,3.7,13223.2,Delayed,3.7
+SHP1200,East,Air,Express,184,67,1.0,1413.93,On Time,4.6
+SHP1201,East,Rail,Express,24,818,2.7,755.47,On Time,4.2
+SHP1202,West,Road,Standard,358,639,2.5,10866.85,On Time,4.6
+SHP1203,East,Rail,Express,398,1444,4.7,18865.59,Delayed,3.4
+SHP1204,North,Road,Standard,97,1248,2.5,6004.74,Delayed,3.9
+SHP1205,West,Road,Standard,429,1059,3.3,24784.67,On Time,4.3
+SHP1206,North,Road,Standard,81,243,1.8,950.28,On Time,4.3
+SHP1207,West,Rail,Express,151,551,2.9,3206.57,On Time,3.5
+SHP1208,West,Road,Standard,108,1037,2.2,6480.59,On Time,4.3
+SHP1209,South,Road,Standard,256,1186,4.8,14249.27,On Time,4.2
+SHP1210,North,Road,Standard,61,163,1.7,538.45,On Time,4.6
+SHP1211,East,Road,Standard,108,1295,4.0,7174.54,On Time,4.2
+SHP1212,East,Air,Standard,421,1751,3.5,92264.86,On Time,3.9
+SHP1213,North,Rail,Standard,315,996,4.4,10708.92,On Time,4.2
+SHP1214,East,Road,Standard,347,880,3.0,16612.8,On Time,4.1
+SHP1215,East,Road,Standard,314,1717,5.6,30310.17,On Time,4.0
+SHP1216,North,Road,Standard,123,1970,4.0,13944.65,Delayed,3.8
+SHP1217,West,Road,Standard,33,1337,4.0,2395.19,On Time,3.9
+SHP1218,North,Road,Standard,307,974,3.5,15538.39,Delayed,3.6
+SHP1219,West,Road,Standard,198,104,1.3,1101.07,On Time,4.5
+SHP1220,East,Road,Express,144,1944,4.0,15845.48,On Time,4.1
+SHP1221,East,Rail,Standard,441,1716,5.1,28474.47,On Time,3.8
+SHP1222,East,Rail,Standard,372,849,3.8,10368.58,On Time,3.9
+SHP1223,South,Road,Standard,42,827,1.4,1992.98,On Time,4.4
+SHP1224,West,Road,Standard,82,1531,5.0,6825.13,On Time,4.4
+SHP1225,South,Rail,Standard,162,1951,5.5,12189.7,On Time,3.8
+SHP1226,South,Road,Standard,500,211,1.7,5111.65,On Time,4.4
+SHP1227,North,Air,Standard,172,1453,3.5,29836.28,On Time,4.2
+SHP1228,South,Rail,Standard,164,136,1.9,804.23,On Time,4.1
+SHP1229,North,Road,Standard,244,104,1.3,1367.45,On Time,4.0
+SHP1230,North,Road,Standard,469,1549,2.7,34210.19,Delayed,3.7
+SHP1231,South,Rail,Standard,481,1873,6.3,34596.56,On Time,3.9
+SHP1232,West,Road,Standard,328,1251,4.6,23894.5,On Time,4.1
+SHP1233,West,Road,Standard,123,1464,2.8,8348.44,Delayed,4.1
+SHP1234,West,Air,Standard,123,1422,2.8,22417.7,On Time,4.3
+SHP1235,West,Road,Standard,454,1081,2.4,24950.07,On Time,4.3
+SHP1236,West,Road,Standard,58,882,2.8,2896.81,Delayed,3.8
+SHP1237,South,Rail,Express,454,362,2.4,6492.99,On Time,4.5
+SHP1238,South,Road,Standard,217,808,3.6,9264.12,On Time,3.9
+SHP1239,East,Road,Standard,153,1908,5.9,16048.77,On Time,3.6
+SHP1240,West,Air,Express,86,492,1.5,5307.91,On Time,4.6
+SHP1241,South,Road,Express,410,1840,3.9,38326.29,On Time,3.8
+SHP1242,East,Air,Standard,198,377,1.0,8227.94,On Time,5.0
+SHP1243,West,Air,Standard,475,1127,2.5,64038.56,On Time,4.3
+SHP1244,North,Road,Express,61,810,2.5,2759.15,On Time,4.4
+SHP1245,East,Road,Standard,467,1312,2.8,33866.18,Delayed,3.7
+SHP1246,South,Road,Standard,34,1302,5.1,2466.47,Delayed,3.6
+SHP1247,North,Road,Standard,130,628,3.2,4179.65,On Time,4.1
+SHP1248,North,Road,Standard,176,1124,3.3,11071.53,On Time,4.1
+SHP1249,North,Rail,Standard,308,1682,4.8,17420.91,On Time,4.2
+SHP1250,East,Road,Standard,497,1677,4.0,43803.15,On Time,4.0
